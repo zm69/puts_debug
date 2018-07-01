@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{This simple gem adds method pd() to Ruby that helps with puts debugging}
   spec.description   = %q{Adds method pd (Puts Debugging) to Ruby. Defined in Kernel module which is included into Object class so this method
   is accessible from everywhere}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/izbor/puts_debug"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
