@@ -1,4 +1,5 @@
 require "puts_debug/version"
+require 'rainbow'
 
 module Kernel
   ##
